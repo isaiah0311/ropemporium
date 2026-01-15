@@ -6,7 +6,7 @@ ROP Emporium offers several return-oriented programming challenges. This project
 
 ## Challeneges
 - [x] ret2win
-- [ ] split
+- [x] split
 - [ ] callme
 - [ ] write4
 - [ ] badchars

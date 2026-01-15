@@ -1,2 +1,9 @@
-ret2win/flag.txt
+# Flags
+flag.txt
+
+# Core dumps
+core*
+
+# Binaries
 ret2win/ret2win
+split/split
