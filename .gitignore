@@ -4,6 +4,14 @@ flag.txt
 # Core dumps
 core*
 
+# Data files
+*.dat
+
+# Libraries
+*.so
+
 # Binaries
 ret2win/ret2win
 split/split
+callme/callme
+

@@ -7,7 +7,7 @@ ROP Emporium offers several return-oriented programming challenges. This project
 ## Challeneges
 - [x] ret2win
 - [x] split
-- [ ] callme
+- [x] callme
 - [ ] write4
 - [ ] badchars
 - [ ] fluff
@@ -24,6 +24,8 @@ ROP Emporium offers several return-oriented programming challenges. This project
 - `cd <challenge>`
 - `python solution.py`
 
+**Note:** The solutions are for the x86_64 versions.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
@@ -31,3 +33,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Isaiah Lateer**\
 GitHub: [isaiah0311](https://github.com/isaiah0311)  
 Email: isaiahL0311@gmail.com
+
