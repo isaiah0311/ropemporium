@@ -11,7 +11,7 @@ challenges can be found at https://ropemporium.com/.
 - [x] split
 - [x] callme
 - [x] write4
-- [ ] badchars
+- [x] badchars
 - [ ] fluff
 - [ ] pivot
 - [ ] ret2csu
@@ -27,6 +27,12 @@ challenges can be found at https://ropemporium.com/.
 - `python solution.py`
 
 **Note:** The solutions are for the x86_64 versions.
+
+## Toolbox
+- gdb
+- radare2
+- pwntools
+- ropper
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
