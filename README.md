@@ -8,7 +8,7 @@ challenges can be found at https://ropemporium.com/.
 
 ## Challeneges
 - [x] ret2win
-- [ ] split
+- [x] split
 - [ ] callme
 - [ ] write4
 - [ ] badchars
@@ -35,3 +35,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Isaiah Lateer**\
 GitHub: [isaiah0311](https://github.com/isaiah0311)  
 Email: isaiahL0311@gmail.com
+

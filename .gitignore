@@ -1,2 +1,5 @@
 ret2win/*
-!ret2win/*.py
+split/*
+
+!solution.py
+
